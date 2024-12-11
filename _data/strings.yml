@@ -5,21 +5,18 @@ app:
   #featured: Featured in
 
 footer:
-  copyright: Made by <a href="https://bento.me/mobiledevpro" target="_blank">Dmitri Chernysh</a>
+  copyright: Made by <a href="https://khoabk12.github.io/developer-portfolio/" target="_blank">Nguyen Dang Khoa</a>
   links:
-    - title: Instagram
-      url: https://instagr.am/mobiledevpro?utm_source=neonframe_landing
+    - title: Google Play
+      url: https://play.google.com/store/apps/details?id=com.devindie.directsharemessenger
       target: _blank
-    - title: YouTube
-      url: https://youtube.com/@mobiledevpro?utm_source=neonframe_landing
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/khoanguyenbk18/
       target: _blank
     - title: GitHub
-      url: https://github.com/dmitriy-chernysh?utm_source=neonframe_landing
-      target: _blank
-    - title: Twitter/X
-      url: https://twitter.com/mobiledev_pro?utm_source=neonframe_landing
+      url: https://github.com/khoa-nguyen-bk18
       target: _blank
     - title: Privacy
-      url: /privacy
+      url: https://www.termsfeed.com/live/50e36a4b-ca5a-44ad-92d4-8b0c85d5839c
     - title: Terms
-      url: /terms
+      url: https://www.freeprivacypolicy.com/live/0c8737b8-5a92-40ca-9011-f4ac55a02465
