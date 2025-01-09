@@ -32,8 +32,8 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      - name: Build Landing Page
-        run: npm run build
+      # - name: Build Landing Page
+      #   run: npm run build
 
       - name: Upload Built Site
         uses: actions/upload-pages-artifact@v3
